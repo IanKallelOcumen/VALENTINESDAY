@@ -2,6 +2,7 @@ import { useState, useEffect, useRef } from "react";
 import { motion } from "motion/react";
 import { Volume2, VolumeX } from "lucide-react";
 import { useClickSound } from "../hooks/useClickSound";
+import backgroundMusic from "../../assets/Daniel Caesar - Baby Blue feat. Norwill Simmonds (Official Lyric Video).mp3";
 
 export function BackgroundMusic() {
   const [isMuted, setIsMuted] = useState(true);
@@ -46,7 +47,7 @@ export function BackgroundMusic() {
         playsInline
         className="hidden"
       >
-        <source src="/background-music.mp3" type="audio/mpeg" />
+        <source src={backgroundMusic} type="audio/mpeg" />
       </audio>
 
       {/* Control Button */}
