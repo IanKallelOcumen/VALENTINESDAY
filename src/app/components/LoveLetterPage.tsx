@@ -198,9 +198,20 @@ export function LoveLetterPage() {
               transition={{ delay: 1.4 }}
               style={{ fontFamily: 'Kalam, cursive', fontSize: '1.3rem' }}
             >
-              I love how we can watch anime together, game together ALL THE TIME, share our love for My Melody, 
-              Hangyodon, Tuxedo Sam, and Cinnamoroll, and just be completely ourselves around each other. 
-              You understand me in ways that no one else does, and I'm so grateful for that. 💖
+              I love how we just exist together - gaming, watching anime, being our authentic selves even though 
+              we have completely different tastes in everything. And honestly? That's what makes it work. You don't have to 
+              like the same things I like for me to love being around you. You just get me. 💖
+            </motion.p>
+
+            <motion.p
+              initial={{ opacity: 0 }}
+              animate={{ opacity: 1 }}
+              transition={{ delay: 1.5 }}
+              style={{ fontFamily: 'Kalam, cursive', fontSize: '1.3rem' }}
+            >
+              I know we started off rocky. I teased you about your ex situationship situation because... honestly, I was 
+              processing my own feelings in the worst way possible. But somehow through all that, you saw past that and we 
+              found our way. That means everything to me.
             </motion.p>
 
             <motion.p

@@ -10,49 +10,49 @@ export function MemoriesPage() {
     {
       emoji: "😈",
       title: "Our First Meeting",
-      description: "When I first met you, I was totally bullying you... but it was so much fun! Who knew that's how our story would start? 😂💕",
+      description: "Okay, I was a total jerk at first. Teasing you about that whole situationship mess... I was being cruel when I should've been kinder. But somehow you didn't hate me for it, and that's when I realized how special you actually are. 😂💕",
       color: "from-pink-400 to-pink-600"
     },
     {
       emoji: "🎬",
       title: "Anime & Movie Nights",
-      description: "Our anime and movie nights together (even though they were way too short!). I can't wait to have more of these with you and actually finish a series! 🍿",
+      description: "We watch completely different stuff and have such different tastes, but there's something magical about just sitting there together anyway. Even if I don't understand half the shows you love, I love experiencing them with you. 🍿",
       color: "from-purple-400 to-purple-600"
     },
     {
       emoji: "💬",
       title: "Late Night Talks",
-      description: "Staying up way too late just talking to you. I never want these conversations to end. You're my favorite person to talk to! 🌙",
+      description: "You're the reason I stay up so late talking. Like, way too late, where we both have to force ourselves to sleep. These talks with you are the ones I replay in my head over and over. 🌙",
       color: "from-indigo-400 to-indigo-600"
     },
     {
       emoji: "🎮",
       title: "Gaming Together",
-      description: "We game together ALL THE TIME and I absolutely love it! Whether we're winning or losing, it's always the best when I'm playing with you! 🕹️",
+      description: "We have such different gaming tastes, but that doesn't stop us from playing together constantly. Even when we're playing different things or you're watching me, these moments just feel right. That's us. 🕹️",
       color: "from-red-400 to-red-600"
     },
     {
       emoji: "✈️",
       title: "Can't Wait to Meet You",
-      description: "I dream about the day we finally meet in person. Holding your hand, seeing your smile in real life... it's all I think about! 🥰",
+      description: "I think about meeting you in person all the time. Like, actually holding your hand and seeing that smile up close. It's one of those dreams that feels so real I can almost touch it. 🥰",
       color: "from-rose-400 to-rose-600"
     },
     {
       emoji: "☁️",
       title: "Lazy Sundays (Soon!)",
-      description: "I can't wait for lazy Sundays where we just do nothing together. Cuddling, watching stuff, being lazy... sounds like paradise with you! 💤",
+      description: "I keep imagining just... doing absolutely nothing with you. No pressure, no plans. Just us being lazy together. That's my kind of perfect day. 💤",
       color: "from-cyan-400 to-cyan-600"
     },
     {
       emoji: "💕",
       title: "Everything Together",
-      description: "I want to do EVERYTHING with you. Every adventure, every quiet moment, every silly thing - I want you by my side for all of it! ✨",
+      description: "I genuinely want to share every part of my life with you. The big adventures, the small stupid moments, the quiet ones. Everything just feels better when I think about doing it with you.",
       color: "from-orange-400 to-orange-600"
     },
     {
       emoji: "🌟",
       title: "All The Moments to Come",
-      description: "All the memories we haven't made yet but I can't wait to create with you. Our story is just beginning! 💖",
+      description: "We haven't even scratched the surface yet. All the memories we're going to make together... I'm so excited for our story. It's only getting started. 💖",
       color: "from-pink-500 to-rose-500"
     }
   ];
