@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "motion/react";
 import { useNavigate } from "react-router";
 import { Heart, Sparkles } from "lucide-react";
 import { useClickSound } from "../hooks/useClickSound";
-import catWithFlower from "figma:asset/05f1dd0c53aee8f46bac4ab209159807f1a8f573.png";
+import catWithFlower from "../../assets/05f1dd0c53aee8f46bac4ab209159807f1a8f573.png";
 
 const funnyMessages = [
   "Are you sure? 🥺",

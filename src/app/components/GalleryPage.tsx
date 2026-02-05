@@ -2,12 +2,12 @@ import { Link } from "react-router";
 import { motion } from "motion/react";
 import { Home, Heart } from "lucide-react";
 import { useClickSound } from "../hooks/useClickSound";
-import fionaOutfitImg from "figma:asset/b7d2eb3eb33d1281e46d36700def56d7ee6644b7.png";
-import myDogImg from "figma:asset/a0a8a32cdb8d0cc67d5ba205b8983b1e0bdd1d0f.png";
-import mikuGiftsImg from "figma:asset/960b2063f43844373c33b5e191289070e4941b51.png";
-import herCatImg from "figma:asset/8753f5d05e944f2b29eafdbd0713b6158a1bdd74.png";
-import hoodieImg from "figma:asset/2bfffe5ff6a697c78a4c56a8168d5039c6835e51.png";
-import catWithFlowerImg from "figma:asset/05f1dd0c53aee8f46bac4ab209159807f1a8f573.png";
+import fionaOutfitImg from "../../assets/b7d2eb3eb33d1281e46d36700def56d7ee6644b7.png";
+import myDogImg from "../../assets/a0a8a32cdb8d0cc67d5ba205b8983b1e0bdd1d0f.png";
+import mikuGiftsImg from "../../assets/960b2063f43844373c33b5e191289070e4941b51.png";
+import herCatImg from "../../assets/8753f5d05e944f2b29eafdbd0713b6158a1bdd74.png";
+import hoodieImg from "../../assets/2bfffe5ff6a697c78a4c56a8168d5039c6835e51.png";
+import catWithFlowerImg from "../../assets/05f1dd0c53aee8f46bac4ab209159807f1a8f573.png";
 
 export function GalleryPage() {
   const playClick = useClickSound();

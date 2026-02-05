@@ -2,11 +2,11 @@ import { Link, useNavigate } from "react-router";
 import { motion } from "motion/react";
 import { Heart, Sparkles, Gift, Camera, Mail, List, RotateCcw } from "lucide-react";
 import { useClickSound } from "../hooks/useClickSound";
-import hangyodonImg from "figma:asset/0459ebf1a1f85f10f3abad1f7cad5fcecef6887b.png";
-import mikuImg from "figma:asset/0368e44f274159efd96c7f8a45b90d034051d60b.png";
-import tuxedoSamImg from "figma:asset/89aa3f4eef74342d201e3983a2afdd196a36dec3.png";
-import myMelodyImg from "figma:asset/cb43116898232b3fc956b2b9aad3d784c0e0491d.png";
-import cinnamorollImg from "figma:asset/856445b2b16718404ff5765f7b5bd1ad864e7576.png";
+import hangyodonImg from "../../assets/0459ebf1a1f85f10f3abad1f7cad5fcecef6887b.png";
+import mikuImg from "../../assets/0368e44f274159efd96c7f8a45b90d034051d60b.png";
+import tuxedoSamImg from "../../assets/89aa3f4eef74342d201e3983a2afdd196a36dec3.png";
+import myMelodyImg from "../../assets/cb43116898232b3fc956b2b9aad3d784c0e0491d.png";
+import cinnamorollImg from "../../assets/856445b2b16718404ff5765f7b5bd1ad864e7576.png";
 
 export function HomePage() {
   const playClick = useClickSound();
